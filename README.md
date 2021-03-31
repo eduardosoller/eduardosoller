@@ -3,13 +3,13 @@
 ## About Me
 Apaixonado por desenvolvimento web e mobile há mais de 20 anos, continuo motivado a aprender e estou sempre pronto pra resolver os desafios que aparecem no dia a dia.
 <br>
-Sou um desenvolvedor web e mobile e também faço o design de interfaces.
+Além da programação também faço o design dos meus sites e aplicativos.
 
 ## Technologies
-- Front - End com HTML, CSS, JS (Typescript), ReactJS
-- Back - End com Node.js, PHP, MySQL, MongoDB, PostgreSQL
-- Wordpress: RestAPI, Plugins, Custom Themes
-- UI Design com Figma, Illustrator, Photoshop
+- Front - End com HTML, CSS, JS, Typescript, React JS e React Native.
+- Back - End com Node.js, PHP, MySQL, MongoDB, PostgreSQL.
+- Wordpress: RestAPI, Plugins, Custom Themes, Woocommerce.
+- UI Design com Figma, Illustrator, Photoshop.
 
 **Languages and Tools:**  
 
