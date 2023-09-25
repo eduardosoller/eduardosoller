@@ -3,11 +3,10 @@
 ## Sobre mim
 Apaixonado por desenvolvimento web e mobile há mais de 20 anos, continuo motivado a aprender e estou sempre pronto pra resolver os desafios que aparecem no dia a dia.
 <br>
-Além da programação também faço o design dos meus sites e aplicativos.
 
 ## Tecnologias
-- Front - End com HTML, CSS, JS, Typescript, React JS e React Native.
-- Back - End com Node.js, PHP, MySQL, MongoDB, PostgreSQL.
+- Front - End: HTML5, CSS3, Typescript, React, React Native, Nextjs.
+- Back - End: Node.js, PHP, MySQL, MongoDB, PostgreSQL.
 - Wordpress: RestAPI, Plugins, Custom Themes, Woocommerce.
 - UI Design com Figma, Illustrator, Photoshop.
 
@@ -23,5 +22,4 @@ Além da programação também faço o design dos meus sites e aplicativos.
 ##  Entre em contato
 - <a href="https://www.linkedin.com/in/eduardosoller/">Linkedin</a>
 - <a href="mailto:eduardosoller@gmail.com">E-mail</a>
-- <a href="https://instagram.com/soller.digital">Instagram Profissional</a>
 </div>
