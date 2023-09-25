@@ -5,8 +5,8 @@ Apaixonado por desenvolvimento web e mobile há mais de 20 anos, continuo motiva
 <br>
 
 ## Tecnologias
-- Front - End: HTML5, CSS3, Typescript, React, React Native, Nextjs.
-- Back - End: Node.js, PHP, MySQL, MongoDB, PostgreSQL.
+- Front-end: HTML5, CSS3, Typescript, React, React Native, Nextjs.
+- Back-end: Node.js, PHP, MySQL, MongoDB, PostgreSQL.
 - Wordpress: RestAPI, Plugins, Custom Themes, Woocommerce.
 - UI Design com Figma, Illustrator, Photoshop.
 
