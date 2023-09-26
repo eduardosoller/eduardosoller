@@ -1,7 +1,8 @@
  # <a href="https://www.linkedin.com/in/eduardosoller/">Eduardo Soller</a>
  
 ## Sobre mim
-Apaixonado por desenvolvimento web e mobile há mais de 20 anos, continuo motivado a aprender e estou sempre pronto pra resolver os desafios que aparecem no dia a dia.
+Sou um desenvolvedor de softwares com mais de 20 anos de carreira, tendo atuado tanto como empreendedor e desenvolvedor autônomo quanto como colaborador em diversas empresas de tecnologia.
+Apaixonado pela profissão, sigo motivado a aprender para superar os desafios no dia à dia e para acompanhar a evolução das linguagens e frameworks.
 <br>
 
 ## Tecnologias
