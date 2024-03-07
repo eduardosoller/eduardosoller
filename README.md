@@ -3,10 +3,10 @@ I am an experienced software developer with over 20 years of professional backgr
 <br>
 
 ## technologies
-- Front-end: HTML5, CSS3, Typescript, React, React Native, Nextjs.
-- Back-end: Node.js, PHP, MySQL, MongoDB, PostgreSQL.
-- Wordpress: RestAPI, Plugins, Custom Themes, Woocommerce.
-- UI Design com Figma, Illustrator, Photoshop.
+- Front-end: HTML5, CSS3, Typescript, React, React Native, NextJS
+- Back-end: Node.js, PHP, MySQL, MongoDB, PostgreSQL
+- Wordpress: RestAPI, Plugins, Custom Themes, Woocommerce
+- UI Design: Figma, Illustrator, Photoshop
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -15,6 +15,6 @@ I am an experienced software developer with over 20 years of professional backgr
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
 ## get in touch
-- <a href="https://www.linkedin.com/in/eduardosoller/">Linkedin</a>
-- <a href="mailto:eduardosoller@gmail.com">E-mail</a>
+- <a color="#ffffff" href="https://www.linkedin.com/in/eduardosoller/">linkedin.com/in/eduardosoller</a>
+- <a color="white" href="mailto:eduardosoller@gmail.com">eduardosoller@gmail.com</a>
 </div>
